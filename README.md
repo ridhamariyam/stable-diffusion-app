@@ -4,10 +4,6 @@
 
 On this project, you can explore how to build a basic React Application using FastAPI as the backend, enabling the generation of images with Stable Diffusion using the Diffusers library from Hugging Face.
 
-## 3. Concepts 
-
-Before diving into the project, I'll give you an overview of the main concepts and technologies that have been used, and pointers to resources where you can learn more about it. 
-
 ### 3.1. What is Stable Diffusion?
 It's a deep learning model that generates high-quality images from text prompts. It works using latent diffusion — converting input to a latent space, denoising, and generating visual output.
 
