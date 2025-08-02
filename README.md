@@ -1,5 +1,3 @@
-<img width="1177" height="658" alt="demo" src="https://github.com/user-attachments/assets/22a12d69-5755-4b41-bb55-3afaac1781b6" /># Stable Diffusion Application using React with FastAPI
-
 ## 1. What is this project about? 
 
 On this project, you can explore how to build a basic React Application using FastAPI as the backend, enabling the generation of images with Stable Diffusion using the Diffusers library from Hugging Face.
