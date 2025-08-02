@@ -1,4 +1,4 @@
-# Stable Diffusion Application using React with FastAPI
+<img width="1177" height="658" alt="demo" src="https://github.com/user-attachments/assets/22a12d69-5755-4b41-bb55-3afaac1781b6" /># Stable Diffusion Application using React with FastAPI
 
 ## 1. What is this project about? 
 
@@ -9,7 +9,7 @@ It's a deep learning model that generates high-quality images from text prompts.
 
 ### Demo 
 
-![Uploading image.png…]()
+<img width="1177" height="658" alt="demo" src="https://github.com/user-attachments/assets/ce709985-9388-4f89-86af-173277be6304" />
 
 ## Project Structure
 
