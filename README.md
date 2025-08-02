@@ -7,6 +7,10 @@ On this project, you can explore how to build a basic React Application using Fa
 ### 3.1. What is Stable Diffusion?
 It's a deep learning model that generates high-quality images from text prompts. It works using latent diffusion — converting input to a latent space, denoising, and generating visual output.
 
+### Demo 
+
+![Uploading image.png…]()
+
 ## Project Structure
 
 ```
